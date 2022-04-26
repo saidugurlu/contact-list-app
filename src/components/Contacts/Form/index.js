@@ -40,8 +40,8 @@ useEffect (()=> {
           value={form.phoneNumber}
         ></input>
       </div>
-      <div>
-        <button> Add </button>
+      <div className="btn">
+        <button > Add </button>
       </div>
     </form>
   );
